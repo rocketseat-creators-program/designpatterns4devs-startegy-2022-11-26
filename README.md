@@ -13,7 +13,7 @@ Com 3 super exemplos práticos usando exemplos reais e do dia a dia venha aprend
 
 ![CalculatorStrategyBefore](https://user-images.githubusercontent.com/42419543/204114797-70473e50-be98-4e7d-8695-2963c5d6a781.png)
 
-## [Slides]()
+## [Slides](https://docs.google.com/presentation/d/1R0O_EURL8SGRUMCUt4s7WsQBCEQGOLv_MokgA_12RF8/edit?usp=sharing)
 
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/ananeridev) |
