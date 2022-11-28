@@ -13,6 +13,10 @@ public class Client {
 		System.out.println(calc.getResult(new SubtractionOperation()));
 		System.out.println(calc.getResult(new MultiplicationOperation()));
 		System.out.println(calc.getResult(new DivisionOperation()));
+		
+		System.out.println(calc.getResult((int n1, int n2) -> {
+			return (int) Math.pow(n1, n2);
+		}));
 	}
 
 }
