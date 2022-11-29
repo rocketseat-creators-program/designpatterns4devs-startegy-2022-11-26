@@ -13,6 +13,11 @@ Com 3 super exemplos práticos usando exemplos reais e do dia a dia venha aprend
 
 ![CalculatorStrategyBefore](https://user-images.githubusercontent.com/42419543/204114797-70473e50-be98-4e7d-8695-2963c5d6a781.png)
 
+### Diagrama realizado durante a aula
+
+![Untitled-Page-1 drawio](https://user-images.githubusercontent.com/42419543/204613596-7f1e3aad-50db-4da9-a32f-11d4358e8077.png)
+
+
 ## [Slides](https://docs.google.com/presentation/d/1R0O_EURL8SGRUMCUt4s7WsQBCEQGOLv_MokgA_12RF8/edit?usp=sharing)
 
 ## Expert
